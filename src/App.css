@@ -1,0 +1,29 @@
+.input {
+  /* margin: 20px; */
+  text-align: center;
+  padding:10px;
+  /* border: 10px red solid; */
+}
+
+.input > input {
+  /* border: none; */
+  padding:7px;
+  border-radius: 10px;
+}
+form{
+  text-align: center;
+}
+
+button {
+  padding: 5px;
+  border-radius: 10px;
+  /* width: 50px; */
+  background-color:greenyellow;
+  color: black;
+  margin: 10px;
+}
+
+.error {
+  color:red;
+  /* margin-right: 680px; */
+}
